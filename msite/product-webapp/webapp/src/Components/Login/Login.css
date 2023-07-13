@@ -1,0 +1,44 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+   background: #eee; 
+}
+
+
+
+@media (max-width: 450px) {
+  .h-custom {
+  height: 200%;
+  }
+}
+
+Loginpage{
+  background-image: url("https://img.freepik.com/free-vector/blue-fluid-background_53876-114597.jpg?w=996&t=st=1669981615~exp=1669982215~hmac=6d4ac113a820575d79067dbe33baead4cfe258ba2f08ddb22a5a01df033715db");
+  
+    background-size:cover;
+    background-position: center;
+    
+}
+
+.forget1{
+  color: crimson;
+}
+
+.logo{
+  margin-top: -20vh;
+  text-align: center;
+}
+
+.logo1{
+  text-align: center;
+  margin-top: -15vh;
+
+}
+
+.lead fw-normal mb-0 me-3{
+  font-weight: 900;
+
+}
+
+

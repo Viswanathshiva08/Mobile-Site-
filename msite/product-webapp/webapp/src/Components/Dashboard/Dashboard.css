@@ -1,0 +1,82 @@
+
+.dashboard{
+  
+  height: 110vh !important;
+  /* margin-left: 5vw; */
+  background-image: url('https://img.freepik.com/free-vector/cerulean-blue-curve-frame-template_53876-99029.jpg?w=996&t=st=1670048865~exp=1670049465~hmac=96c5b37b95e7ebc3eab6230660d8e71364b2606535d3d9b940d5ccf2b830cb64');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 100vw;
+  padding-top: 10vh;
+  height: 100vh;
+  
+  
+}
+.card2{
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.img2 ,.img3, .img4 ,.img5{
+  mix-blend-mode: multiply;
+}
+
+.text2 h2{
+  text-align: center;
+  font-weight: bold;
+}
+
+.text2 p{
+  text-align:center;
+  
+}
+
+
+.card3{
+  margin-top: 100px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+
+.text3 p {
+  text-align:center;
+}
+.text3 h2{
+  text-align: center;
+  font-weight: bold;
+} 
+
+.card4{
+  margin-top: 100px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.text4 p {
+  text-align:center;
+}
+.text4 h2{
+  text-align: center;
+  font-weight: bold;
+
+} 
+
+.card5{
+  margin-top: 100px;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.text5 p {
+  text-align:center;
+}
+.text5 h2{
+  text-align: center;
+  font-weight: bold;
+  
+} 

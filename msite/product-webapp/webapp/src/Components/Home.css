@@ -1,0 +1,21 @@
+Table{
+    margin-top: 4vw;
+    width: 90vw;
+    margin-left : 2vw;
+    margin-right: 4vw;
+    
+}
+
+.container-boarder{
+    background-image: url('');
+    background-repeat: no-repeat;
+}
+
+.payment{
+    background-image: url("https://img.freepik.com/free-vector/cerulean-blue-curve-frame-template_53876-99029.jpg?w=996&t=st=1670048865~exp=1670049465~hmac=96c5b37b95e7ebc3eab6230660d8e71364b2606535d3d9b940d5ccf2b830cb64");
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+
+}
